@@ -44,19 +44,20 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashanth Pothugunta&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth Pothugunta&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashanth1984-sudo&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prashanth1984-sudo&theme=tokyonight" height="165"/>
 </p>
 
 ## 📈 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth Pothugunta&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashanth1984-sudo&layout=compact&theme=tokyonight" />
 </p>
 
 ## 📌 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashanth Pothugunta&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashanth1984-sudo&theme=tokyo-night" />
 </p>
+
 
 
 
